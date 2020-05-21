@@ -1,4 +1,4 @@
-#!/usr/bin/env bash --posix
+#!/usr/bin/bash --posix
 
 cd "$(dirname "$(readlink -f "$0")")"    #'"%#@!
 
