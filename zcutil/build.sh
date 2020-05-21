@@ -1,4 +1,4 @@
-#!/usr/bin/env bash --posix
+#!/usr/bin/bash --posix
 
 set -eu -o pipefail
 
